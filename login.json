@@ -1,1 +1,29 @@
-
+[
+  {
+    "userId": 2468,
+    "username": "mongo",
+    "first_name": "John",
+    "middle_name": "Henry",
+    "last_name": "Doe",
+    "email": "example@abc.com",
+    "password": "Abcabc123"
+  },
+  {
+    "userId": 2469,
+    "username": "mongo2",
+    "first_name": "John",
+    "middle_name": "Henry",
+    "last_name": "Doe",
+    "email": "example@abc.com",
+    "password": "Abcabc123"
+  },
+  {
+    "userId": 2470,
+    "username": "mongo3",
+    "first_name": "John",
+    "middle_name": "Henry",
+    "last_name": "Doe",
+    "email": "example@abc.com",
+    "password": "Abcabc123"
+  }
+]
